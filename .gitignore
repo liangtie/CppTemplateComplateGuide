@@ -1,0 +1,9 @@
+build
+main.exe
+main.pdb vc140.pdb
+*.obc
+main.obj
+main.pdb vc140.pdb
+main.ilk
+main.pdb
+vc140.pdb
