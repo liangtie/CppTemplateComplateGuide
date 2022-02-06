@@ -43,7 +43,11 @@
         "xmemory": "cpp",
         "xstddef": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "string": "cpp",
+        "list": "cpp",
+        "variant": "cpp",
+        "array": "cpp"
     },
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
