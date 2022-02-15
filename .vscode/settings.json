@@ -47,7 +47,13 @@
         "string": "cpp",
         "list": "cpp",
         "variant": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "unordered_map": "cpp",
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp"
     },
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
